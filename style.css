@@ -1,0 +1,41 @@
+body
+{
+  color: white;
+  background: #c0d3ff;
+}
+span
+{
+  font-size: 30px;
+}
+#camera , #result
+{
+  border: 2px dashed black;
+  width: 350px;
+  height: 300px; 
+}
+#result_HAND_GESTURE ,#result_HAND_GESTURE2  
+{
+  color: black;
+}
+.HAND_GESTURE
+{
+  font-size: 40px;
+}
+.HAND_GESTURE
+{
+  font-size:48px;
+}
+.heading
+{
+  font-size: 18px;
+  border-radius: 10px;
+  letter-spacing: 10px;
+}
+label
+{
+color: rgb(6, 228, 24);
+font-size : 14px;
+padding: 6px;
+border-radius: 10px;
+background-color: white;
+}
